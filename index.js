@@ -14,5 +14,5 @@ function nameToAttributes(drivers) {
       lastName: name.split(" ")[1]
     };
     return driver
-  })
+  });
 }
