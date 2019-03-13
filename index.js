@@ -16,4 +16,5 @@ function nameToAttributes(drivers) {
       lastName: last
     };
   });
+  return nameObjectDrivers;
 }
